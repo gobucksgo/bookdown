@@ -1,0 +1,14 @@
+---
+title: "Write a fancy report using R"
+author: "Kyungho Jang and Donghyun Oh"
+date: '2021 3 3 '
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+
+# dk
