@@ -1,6 +1,6 @@
 ---
-title: "Write a fancy report using R"
-author: "Kyungho Jang and Donghyun Oh"
+title: "연구 목적에 맞게 배우는 R"
+author: "장경호, 오동현"
 date: '2021 3 3 '
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -10,5 +10,3 @@ biblio-style: apalike
 link-citations: yes
 ---
 
-
-# dk
