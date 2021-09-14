@@ -3,3 +3,9 @@ d
 dk
 연구의-목적에-따라-원하는-결과로부터-시작하기
 데이터-읽기
+조사대상의-특성을-보여주기
+tab:unnamed-chunk-15
+tab:unnamed-chunk-13
+tab:unnamed-chunk-14
+tab:unnamed-chunk-12
+목록
